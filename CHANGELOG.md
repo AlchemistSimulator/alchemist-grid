@@ -1,3 +1,19 @@
+## 1.0.0 (2025-02-10)
+
+### Features
+
+* import the project from the main repo ([399aaff](https://github.com/AlchemistSimulator/alchemist-grid/commit/399aaff560adc9bf57dea596185617c94be0fb37))
+
+### Documentation
+
+* remove readme entries ([57c1a81](https://github.com/AlchemistSimulator/alchemist-grid/commit/57c1a8125db84e0780276eeba50494e8390aaa3c))
+
+### Build and continuous integration
+
+* add the codecov token ([fd4b2dc](https://github.com/AlchemistSimulator/alchemist-grid/commit/fd4b2dc3f34ef6cea2016c3900e3182f9b9e7118))
+* do not ignore changes to the readme ([72a676b](https://github.com/AlchemistSimulator/alchemist-grid/commit/72a676bb34fc697e1cc1523e6613063865c6ac1d))
+* move the concurrency control in the dispatcher workflow ([e8918a2](https://github.com/AlchemistSimulator/alchemist-grid/commit/e8918a283e67abc3a36b48a4601e8417021bf401))
+
 ## [0.1.28](https://github.com/DanySK/Template-for-Kotlin-JVM-Projects/compare/0.1.27...0.1.28) (2025-01-27)
 
 ### Dependency updates
