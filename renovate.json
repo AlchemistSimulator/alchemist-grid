@@ -2,5 +2,14 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "github>DanySK/renovate-config:kotlin"
+  ],
+  "packageRules": [
+    {
+      "description": "Trigger a minor update on some dependencies",
+      "matchPackagePrefixes": [
+        "it.unibo.alchemist"
+      ],
+      "semanticCommitScope": "api-deps"
+    }
   ]
 }
