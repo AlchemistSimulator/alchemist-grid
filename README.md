@@ -1,4 +1,4 @@
-# TODO LIST
+# Alchemist Grid computing module based on Apache Ignite
 
 1. Rename the project in `settings.gradle.kts`
 1. Change the project name and description in the `publishOnCentral` block in `build.gradle.kts`

@@ -1,4 +1,3 @@
-@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
     alias(libs.plugins.dokka)
     alias(libs.plugins.gitSemVer)
@@ -9,14 +8,30 @@ plugins {
     alias(libs.plugins.taskTree)
 }
 
-group = "org.danilopianini"
+group = "it.unibo.alchemist"
 
 repositories {
     mavenCentral()
 }
 
+multiJvm {
+    jvmVersionForCompilation = 17
+}
+
 dependencies {
+    compileOnly(libs.spotbugs.annotations)
+
+    api(libs.ignite.core)
+
+    implementation(libs.alchemist)
+    implementation(libs.apache.commons.io)
+    implementation(libs.guava)
+    implementation(libs.ignite.spring)
+    implementation(libs.ignite.indexing)
     implementation(libs.kotlin.stdlib)
+    implementation(libs.resourceloader)
+    implementation(libs.slf4j)
+
     testImplementation(libs.bundles.kotlin.testing)
 }
 
@@ -48,13 +63,9 @@ signing {
 }
 
 publishOnCentral {
-    repoOwner = "DanySK"
+    repoOwner = "AlchemistSimulator"
     projectLongName.set("Template Kotlin JVM Project")
     projectDescription.set("A template repository for Kotlin JVM projects")
-    repository("https://maven.pkg.github.com/danysk/${rootProject.name}".lowercase()) {
-        user.set("DanySK")
-        password.set(System.getenv("GITHUB_TOKEN"))
-    }
     publishing {
         publications {
             withType<MavenPublication> {
@@ -66,6 +77,23 @@ publishOnCentral {
                             url.set("http://www.danilopianini.org/")
                         }
                     }
+                }
+            }
+        }
+    }
+}
+
+publishing.publications {
+    withType<MavenPublication> {
+        pom {
+            developers {
+                developer {
+                    name.set("Matteo Magnani")
+                    email.set("matteo.magnani18@studio.unibo.it")
+                }
+                developer {
+                    name.set("Danilo Pianini")
+                    email.set("danilo.pianini@unibo.it")
                 }
             }
         }
