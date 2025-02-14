@@ -1,3 +1,13 @@
+## [37.4.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.3.0...37.4.0) (2025-02-14)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v37.3.1 ([#3](https://github.com/AlchemistSimulator/alchemist-grid/issues/3)) ([aad1519](https://github.com/AlchemistSimulator/alchemist-grid/commit/aad1519108b7fcdce8141200a4a2586926fb7efd))
+
+### Build and continuous integration
+
+* **renovate:** release a new version on alchemist updates ([effb226](https://github.com/AlchemistSimulator/alchemist-grid/commit/effb226927e85585458a15144798ecbfdde956a1))
+
 ## [0.1.28](https://github.com/DanySK/Template-for-Kotlin-JVM-Projects/compare/0.1.27...0.1.28) (2025-01-27)
 
 ### Dependency updates
