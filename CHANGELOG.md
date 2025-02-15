@@ -1,3 +1,11 @@
+## [37.5.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.4.0...37.5.0) (2025-02-15)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v38 ([#4](https://github.com/AlchemistSimulator/alchemist-grid/issues/4)) ([9b9d8df](https://github.com/AlchemistSimulator/alchemist-grid/commit/9b9d8dffc484093fa04c928dd8501243373f7d0e))
+* **deps:** update ignite to v2.17.0 ([#5](https://github.com/AlchemistSimulator/alchemist-grid/issues/5)) ([16bce8c](https://github.com/AlchemistSimulator/alchemist-grid/commit/16bce8c3d88dda7f7884b5a8c5ed9102400a2413))
+* **deps:** update node.js to 22.14 ([#6](https://github.com/AlchemistSimulator/alchemist-grid/issues/6)) ([6249ea3](https://github.com/AlchemistSimulator/alchemist-grid/commit/6249ea3cea02a0292a1d05d3a232ade78bfbc0b5))
+
 ## [37.4.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.3.0...37.4.0) (2025-02-14)
 
 ### Dependency updates
