@@ -1,3 +1,15 @@
+## [37.6.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.5.0...37.6.0) (2025-02-18)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v38.0.1 ([#10](https://github.com/AlchemistSimulator/alchemist-grid/issues/10)) ([03838be](https://github.com/AlchemistSimulator/alchemist-grid/commit/03838be9e8d8c60622e967d682972b8ca0513d00))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#7](https://github.com/AlchemistSimulator/alchemist-grid/issues/7)) ([0d1e379](https://github.com/AlchemistSimulator/alchemist-grid/commit/0d1e379ffb4c6565c50a6d3c82badab82a066eab))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([#8](https://github.com/AlchemistSimulator/alchemist-grid/issues/8)) ([0e0f3c0](https://github.com/AlchemistSimulator/alchemist-grid/commit/0e0f3c0a35134952326ba090c8f0f479b01de83d))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.9 ([#9](https://github.com/AlchemistSimulator/alchemist-grid/issues/9)) ([6d5e18c](https://github.com/AlchemistSimulator/alchemist-grid/commit/6d5e18c7e97932375edc25d0e07bcb2c0f0a84ac))
+
 ## [37.5.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.4.0...37.5.0) (2025-02-15)
 
 ### Dependency updates
