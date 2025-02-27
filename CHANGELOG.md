@@ -1,3 +1,14 @@
+## [37.9.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.8.0...37.9.0) (2025-02-27)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v39.0.1 ([#20](https://github.com/AlchemistSimulator/alchemist-grid/issues/20)) ([017fb8d](https://github.com/AlchemistSimulator/alchemist-grid/commit/017fb8dc1b05f4afee5165ae755e3e06f948fe60))
+* **deps:** update dependency gradle to v8.13 ([#18](https://github.com/AlchemistSimulator/alchemist-grid/issues/18)) ([97019aa](https://github.com/AlchemistSimulator/alchemist-grid/commit/97019aa1207909c6da913503b6ec885d22f1d22d))
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.17 ([#19](https://github.com/AlchemistSimulator/alchemist-grid/issues/19)) ([8f51605](https://github.com/AlchemistSimulator/alchemist-grid/commit/8f516055f4ed95aec1187f71edd1451d94ad8236))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([#15](https://github.com/AlchemistSimulator/alchemist-grid/issues/15)) ([16ebbf0](https://github.com/AlchemistSimulator/alchemist-grid/commit/16ebbf03126c226ff1bd5a270c28f2c7069f94a2))
+* **deps:** update plugin multijvmtesting to v3.2.3 ([#16](https://github.com/AlchemistSimulator/alchemist-grid/issues/16)) ([77eb61d](https://github.com/AlchemistSimulator/alchemist-grid/commit/77eb61d75004c583f050b24d6c7ddb2485d3aabb))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.21 ([#17](https://github.com/AlchemistSimulator/alchemist-grid/issues/17)) ([d2ec4b3](https://github.com/AlchemistSimulator/alchemist-grid/commit/d2ec4b32edfea3f706a01a806b255f7b6e2677b9))
+
 ## [37.8.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.7.0...37.8.0) (2025-02-20)
 
 ### Dependency updates
