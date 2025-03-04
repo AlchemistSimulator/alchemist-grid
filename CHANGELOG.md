@@ -1,3 +1,17 @@
+## [37.10.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.9.0...37.10.0) (2025-03-04)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v40 ([#26](https://github.com/AlchemistSimulator/alchemist-grid/issues/26)) ([27278b6](https://github.com/AlchemistSimulator/alchemist-grid/commit/27278b6aa52f45d78fcd793a76034ce86c019e7f))
+* **deps:** update dependency com.github.spotbugs:spotbugs-annotations to v4.9.2 ([#24](https://github.com/AlchemistSimulator/alchemist-grid/issues/24)) ([e0a8832](https://github.com/AlchemistSimulator/alchemist-grid/commit/e0a8832ec74abf30d405b9f4fecccbeb27211721))
+* **deps:** update dependency org.mockito:mockito-core to v5.16.0 ([#25](https://github.com/AlchemistSimulator/alchemist-grid/issues/25)) ([d9f2a0a](https://github.com/AlchemistSimulator/alchemist-grid/commit/d9f2a0ac7a1668d13aab9a9836c6ae7b690edece))
+* **deps:** update plugin publishoncentral to v8.0.4 ([#23](https://github.com/AlchemistSimulator/alchemist-grid/issues/23)) ([f2aedeb](https://github.com/AlchemistSimulator/alchemist-grid/commit/f2aedeb83238e1bf1b939bfb2734f33ca2f56c5c))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.11 ([#21](https://github.com/AlchemistSimulator/alchemist-grid/issues/21)) ([4bede3c](https://github.com/AlchemistSimulator/alchemist-grid/commit/4bede3cc3b349fdd8540987e545eab9e253fa822))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.12 ([#22](https://github.com/AlchemistSimulator/alchemist-grid/issues/22)) ([a42f38c](https://github.com/AlchemistSimulator/alchemist-grid/commit/a42f38c24eac14192e0e3c04d0d73fef87556ad4))
+
 ## [37.9.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.8.0...37.9.0) (2025-02-27)
 
 ### Dependency updates
