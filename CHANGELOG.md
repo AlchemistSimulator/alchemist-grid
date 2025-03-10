@@ -1,3 +1,10 @@
+## [37.13.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.12.0...37.13.0) (2025-03-10)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v41 ([#30](https://github.com/AlchemistSimulator/alchemist-grid/issues/30)) ([7ccef96](https://github.com/AlchemistSimulator/alchemist-grid/commit/7ccef96cb8ad5917158939da45ba261be19ab99f))
+* **deps:** update plugin tasktree to v4.0.1 ([#29](https://github.com/AlchemistSimulator/alchemist-grid/issues/29)) ([f7a63e8](https://github.com/AlchemistSimulator/alchemist-grid/commit/f7a63e89a4e8ca4bd8a8637c4e8349d0e6a906c0))
+
 ## [37.12.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.11.0...37.12.0) (2025-03-08)
 
 ### Dependency updates
