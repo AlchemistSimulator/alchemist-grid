@@ -1,3 +1,18 @@
+## [37.15.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.15.0...37.15.1) (2025-03-23)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.1.20 ([#38](https://github.com/AlchemistSimulator/alchemist-grid/issues/38)) ([a103a09](https://github.com/AlchemistSimulator/alchemist-grid/commit/a103a09ad6939631a6e49223dc04242fa988f700))
+* **deps:** update dependency com.github.spotbugs:spotbugs-annotations to v4.9.3 ([#33](https://github.com/AlchemistSimulator/alchemist-grid/issues/33)) ([dbcca14](https://github.com/AlchemistSimulator/alchemist-grid/commit/dbcca144100bac588691f1417ed6f752c5a70c77))
+* **deps:** update dependency com.google.guava:guava to v33.4.5-jre ([#37](https://github.com/AlchemistSimulator/alchemist-grid/issues/37)) ([d5b8c05](https://github.com/AlchemistSimulator/alchemist-grid/commit/d5b8c05a6b83379102dbb3a7f67e0e98d6d64c42))
+* **deps:** update dependency org.mockito:mockito-core to v5.16.1 ([#34](https://github.com/AlchemistSimulator/alchemist-grid/issues/34)) ([c01fc3d](https://github.com/AlchemistSimulator/alchemist-grid/commit/c01fc3dc2eb5fb204db6c0521b1d480b0a51ea5b))
+* **deps:** update plugin publishoncentral to v8.0.5 ([#40](https://github.com/AlchemistSimulator/alchemist-grid/issues/40)) ([f5863e5](https://github.com/AlchemistSimulator/alchemist-grid/commit/f5863e5ca9d3bf4bdc2a268004e5e9229046d3a2))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.3.0 ([#35](https://github.com/AlchemistSimulator/alchemist-grid/issues/35)) ([173e3c9](https://github.com/AlchemistSimulator/alchemist-grid/commit/173e3c9317e53690c9196329d59ca4ea7f6df9d4))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.13 ([#36](https://github.com/AlchemistSimulator/alchemist-grid/issues/36)) ([8e36c0c](https://github.com/AlchemistSimulator/alchemist-grid/commit/8e36c0c7ff42e4086a2e28759213fc04af455e99))
+
 ## [37.15.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.14.0...37.15.0) (2025-03-14)
 
 ### Dependency updates
