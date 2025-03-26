@@ -1,3 +1,14 @@
+## [37.16.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.15.1...37.16.0) (2025-03-26)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.0.3 ([#49](https://github.com/AlchemistSimulator/alchemist-grid/issues/49)) ([84c06b7](https://github.com/AlchemistSimulator/alchemist-grid/commit/84c06b75455fe85d8d24811b65fcea60b879195d))
+* **deps:** update dependency com.google.guava:guava to v33.4.6-jre ([#50](https://github.com/AlchemistSimulator/alchemist-grid/issues/50)) ([fe8b1f5](https://github.com/AlchemistSimulator/alchemist-grid/commit/fe8b1f50d81abfb208078ab44b5c9d00a50a0c7a))
+* **deps:** update plugin kotlin-qa to v0.78.3 ([#43](https://github.com/AlchemistSimulator/alchemist-grid/issues/43)) ([2d64d5c](https://github.com/AlchemistSimulator/alchemist-grid/commit/2d64d5cf48b064ba7649c6dddaa1fa7a9f3f1080))
+* **deps:** update plugin multijvmtesting to v3.2.4 ([#39](https://github.com/AlchemistSimulator/alchemist-grid/issues/39)) ([bfddc85](https://github.com/AlchemistSimulator/alchemist-grid/commit/bfddc850cc9f7f0b5bfadbffa1819e2105b9f40f))
+* **deps:** update plugin multijvmtesting to v3.3.0 ([#42](https://github.com/AlchemistSimulator/alchemist-grid/issues/42)) ([8539517](https://github.com/AlchemistSimulator/alchemist-grid/commit/853951701d58ccd7885f01cfddc536b9d7c090ee))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.22 ([#41](https://github.com/AlchemistSimulator/alchemist-grid/issues/41)) ([0a5a986](https://github.com/AlchemistSimulator/alchemist-grid/commit/0a5a986abf0cb077255eacdb5b114450c2e97e87))
+
 ## [37.15.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.15.0...37.15.1) (2025-03-23)
 
 ### Dependency updates
