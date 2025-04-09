@@ -1,3 +1,13 @@
+## [37.19.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.18.0...37.19.0) (2025-04-09)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.0.6 ([#59](https://github.com/AlchemistSimulator/alchemist-grid/issues/59)) ([43e1428](https://github.com/AlchemistSimulator/alchemist-grid/commit/43e14283022ce991eb7bf8cced054598ad85787d))
+* **deps:** update dependency com.google.guava:guava to v33.4.7-android ([#57](https://github.com/AlchemistSimulator/alchemist-grid/issues/57)) ([2a23d4b](https://github.com/AlchemistSimulator/alchemist-grid/commit/2a23d4b5a29a59893a23f46518147683f858a115))
+* **deps:** update dependency org.mockito:mockito-core to v5.17.0 ([#55](https://github.com/AlchemistSimulator/alchemist-grid/issues/55)) ([a404d22](https://github.com/AlchemistSimulator/alchemist-grid/commit/a404d227918f14f10630d6a541ad6769d39956f5))
+* **deps:** update plugin com.gradle.develocity to v4 ([#58](https://github.com/AlchemistSimulator/alchemist-grid/issues/58)) ([483538c](https://github.com/AlchemistSimulator/alchemist-grid/commit/483538c063b08a6e50cbcd05915b5019ddb30951))
+* **deps:** update plugin publishoncentral to v8.0.6 ([#56](https://github.com/AlchemistSimulator/alchemist-grid/issues/56)) ([c859427](https://github.com/AlchemistSimulator/alchemist-grid/commit/c859427b16606a1d12376a2443c3780a9abe1705))
+
 ## [37.18.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.17.0...37.18.0) (2025-03-31)
 
 ### Dependency updates
