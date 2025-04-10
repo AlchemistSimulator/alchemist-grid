@@ -1,3 +1,10 @@
+## [37.20.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.19.0...37.20.0) (2025-04-10)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.0.7 ([#63](https://github.com/AlchemistSimulator/alchemist-grid/issues/63)) ([61de407](https://github.com/AlchemistSimulator/alchemist-grid/commit/61de4073d137b52635b7ae5730eada8afa77a192))
+* **deps:** update dependency com.google.guava:guava to v33.4.7-jre ([#62](https://github.com/AlchemistSimulator/alchemist-grid/issues/62)) ([959e699](https://github.com/AlchemistSimulator/alchemist-grid/commit/959e6994eb77b766294d68e9cd9b4e2a237eb913))
+
 ## [37.19.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.18.0...37.19.0) (2025-04-09)
 
 ### Dependency updates
