@@ -1,3 +1,17 @@
+## [37.21.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.20.0...37.21.0) (2025-04-14)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.0.8 ([#67](https://github.com/AlchemistSimulator/alchemist-grid/issues/67)) ([aa238e5](https://github.com/AlchemistSimulator/alchemist-grid/commit/aa238e575cd1dfc36ad625f72ac787306aa11cbe))
+* **deps:** update dependency commons-io:commons-io to v2.19.0 ([#65](https://github.com/AlchemistSimulator/alchemist-grid/issues/65)) ([8f65277](https://github.com/AlchemistSimulator/alchemist-grid/commit/8f6527734ac63ab5c86e2ae2f9bd449b21a6c127))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.10.0 ([#64](https://github.com/AlchemistSimulator/alchemist-grid/issues/64)) ([6bdaa90](https://github.com/AlchemistSimulator/alchemist-grid/commit/6bdaa90749f440b0e815163ddda4acf1eec9a252))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.4.0 ([#66](https://github.com/AlchemistSimulator/alchemist-grid/issues/66)) ([53a91c6](https://github.com/AlchemistSimulator/alchemist-grid/commit/53a91c6d9d1c91cac57f809567d6d44e99085ce1))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.16 ([#60](https://github.com/AlchemistSimulator/alchemist-grid/issues/60)) ([6163ea8](https://github.com/AlchemistSimulator/alchemist-grid/commit/6163ea8cacd4721500c26da1495e07351adc9c34))
+* **deps:** update dependency windows github actions runner to v2025 ([#61](https://github.com/AlchemistSimulator/alchemist-grid/issues/61)) ([89952d7](https://github.com/AlchemistSimulator/alchemist-grid/commit/89952d7742b57210d7cc035fccc8e0928ae5378d))
+
 ## [37.20.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.19.0...37.20.0) (2025-04-10)
 
 ### Dependency updates
