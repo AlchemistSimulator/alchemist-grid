@@ -1,3 +1,16 @@
+## [37.22.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.21.0...37.22.0) (2025-04-20)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.0.9 ([#72](https://github.com/AlchemistSimulator/alchemist-grid/issues/72)) ([24f20fc](https://github.com/AlchemistSimulator/alchemist-grid/commit/24f20fca0466a0e96e32a581af0f27ac2511e88d))
+* **deps:** update dependency com.google.guava:guava to v33.4.8-jre ([#68](https://github.com/AlchemistSimulator/alchemist-grid/issues/68)) ([1a61b8d](https://github.com/AlchemistSimulator/alchemist-grid/commit/1a61b8d20b9bd5a8205e7a78a0cec9e5d72ebcf3))
+* **deps:** update plugin gitsemver to v5 ([#69](https://github.com/AlchemistSimulator/alchemist-grid/issues/69)) ([456261f](https://github.com/AlchemistSimulator/alchemist-grid/commit/456261f52c74901cda856bc75597a985aa0c6704))
+* **deps:** update plugin multijvmtesting to v3.4.0 ([#71](https://github.com/AlchemistSimulator/alchemist-grid/issues/71)) ([7b60464](https://github.com/AlchemistSimulator/alchemist-grid/commit/7b604642472f3da45d4df97aac5f03ffbf605964))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v3.7.17 ([#70](https://github.com/AlchemistSimulator/alchemist-grid/issues/70)) ([358d7c8](https://github.com/AlchemistSimulator/alchemist-grid/commit/358d7c8d9a6936620bf4b1f9bb05a7e2494fbad3))
+
 ## [37.21.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.20.0...37.21.0) (2025-04-14)
 
 ### Dependency updates
