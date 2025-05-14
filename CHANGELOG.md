@@ -1,3 +1,10 @@
+## [37.24.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.23.1...37.24.0) (2025-05-14)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.1.1 ([#91](https://github.com/AlchemistSimulator/alchemist-grid/issues/91)) ([520a306](https://github.com/AlchemistSimulator/alchemist-grid/commit/520a3063a6d92dc56e38591bc169fd91e03bd412))
+* **deps:** update plugin gitsemver to v5.1.3 ([#90](https://github.com/AlchemistSimulator/alchemist-grid/issues/90)) ([786d398](https://github.com/AlchemistSimulator/alchemist-grid/commit/786d398374e1f9982ae58960d560c9a1b97bb1d2))
+
 ## [37.23.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.23.0...37.23.1) (2025-05-13)
 
 ### Dependency updates
