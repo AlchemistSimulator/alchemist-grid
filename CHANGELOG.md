@@ -1,3 +1,19 @@
+## [37.27.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.27.0...37.27.1) (2025-07-10)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.132 ([#111](https://github.com/AlchemistSimulator/alchemist-grid/issues/111)) ([0cfa4e9](https://github.com/AlchemistSimulator/alchemist-grid/commit/0cfa4e93c3bdce4544a970c345e7d8db5dba72c6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.133 ([#113](https://github.com/AlchemistSimulator/alchemist-grid/issues/113)) ([b0d6003](https://github.com/AlchemistSimulator/alchemist-grid/commit/b0d600321a0aca11b1910995017e6f0608382664))
+* **deps:** update plugin kotlin-qa to v0.89.0 ([#112](https://github.com/AlchemistSimulator/alchemist-grid/issues/112)) ([55569ea](https://github.com/AlchemistSimulator/alchemist-grid/commit/55569ea8884f33546c4c14aebc2f9364916b58d1))
+
+### Bug Fixes
+
+* **release:** migrate to Maven Central Portal ([44a4bea](https://github.com/AlchemistSimulator/alchemist-grid/commit/44a4bea2a51dc74ac5fb1c88413ee1f2a0e28528))
+
+### Build and continuous integration
+
+* do not release unstable versions on Central ([22ec188](https://github.com/AlchemistSimulator/alchemist-grid/commit/22ec18887ed3136215fae8b79a12dea984bfafb4))
+
 ## [37.27.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.26.0...37.27.0) (2025-05-30)
 
 ### Dependency updates
