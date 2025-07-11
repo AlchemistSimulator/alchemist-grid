@@ -16,7 +16,7 @@ kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "
 kotest-junit5-jvm = { module = "io.kotest:kotest-runner-junit5-jvm", version.ref = "kotest" }
 kotest-assertions-core-jvm = { module = "io.kotest:kotest-assertions-core-jvm", version.ref = "kotest" }
 mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockito" }
-resourceloader = "org.danilopianini:thread-inheritable-resource-loader:0.3.7"
+resourceloader = "org.danilopianini:thread-inheritable-resource-loader:0.3.8"
 slf4j = "org.slf4j:slf4j-api:2.0.17"
 spotbugs-annotations = "com.github.spotbugs:spotbugs-annotations:4.9.3"
 
