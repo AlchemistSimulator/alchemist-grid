@@ -1,3 +1,15 @@
+## [37.30.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.29.0...37.30.0) (2025-07-22)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.2.6 ([cbae1d6](https://github.com/AlchemistSimulator/alchemist-grid/commit/cbae1d6b4c7333694a3db5b24f860bca49131d93))
+* **deps:** update dependency commons-io:commons-io to v2.20.0 ([5d0767c](https://github.com/AlchemistSimulator/alchemist-grid/commit/5d0767c54a96770a48178263b86b478df0d8531c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.137 ([424e00d](https://github.com/AlchemistSimulator/alchemist-grid/commit/424e00d3750b1952488aa713ae99fd620a9c7d3f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.138 ([11d06f8](https://github.com/AlchemistSimulator/alchemist-grid/commit/11d06f85085be1f3b635968255381df4e72f2629))
+* **deps:** update plugin com.gradle.develocity to v4.1 ([65117d1](https://github.com/AlchemistSimulator/alchemist-grid/commit/65117d1d6bd01b70c97bdb5057245340a4d96f96))
+* **deps:** update plugin multijvmtesting to v3.6.0 ([ee975c7](https://github.com/AlchemistSimulator/alchemist-grid/commit/ee975c79c73316ec264b1b423bf5d65c3a0f3d21))
+* **deps:** update plugin publishoncentral to v9.0.8 ([f81eb0a](https://github.com/AlchemistSimulator/alchemist-grid/commit/f81eb0a4c5640568a45d30aa4f56e8aa6e5d9340))
+
 ## [37.29.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.28.1...37.29.0) (2025-07-13)
 
 ### Dependency updates
