@@ -1,3 +1,9 @@
+## [37.31.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.30.0...37.31.0) (2025-07-23)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.2.7 ([f7069b0](https://github.com/AlchemistSimulator/alchemist-grid/commit/f7069b011f868e132bb5ac4da0f27f401c31bf04))
+
 ## [37.30.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.29.0...37.30.0) (2025-07-22)
 
 ### Dependency updates
