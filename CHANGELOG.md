@@ -1,3 +1,14 @@
+## [37.34.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.33.0...37.34.0) (2025-08-17)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.2.10 ([19e9e5a](https://github.com/AlchemistSimulator/alchemist-grid/commit/19e9e5ab94026b24efc2ce20ff41b89ed5b59696))
+* **deps:** update dependency org.mockito:mockito-core to v5.19.0 ([6cdad86](https://github.com/AlchemistSimulator/alchemist-grid/commit/6cdad86e4aee584f8b463baedeab79c78f54b7d1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.140 ([0aab745](https://github.com/AlchemistSimulator/alchemist-grid/commit/0aab745a969c1b9f31aabccea8788a31a4659be6))
+* **deps:** update plugin kotlin-qa to v0.93.2 ([74a01a7](https://github.com/AlchemistSimulator/alchemist-grid/commit/74a01a7f6dd9bab20aff81df588c980a448bb1c7))
+* **deps:** update plugin kotlin-qa to v0.93.3 ([8afe517](https://github.com/AlchemistSimulator/alchemist-grid/commit/8afe517979fd72aba828003514e39fba4311f44d))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.30 ([2b5095d](https://github.com/AlchemistSimulator/alchemist-grid/commit/2b5095d0f515975530c69eff5f02100358e2ab94))
+
 ## [37.33.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.32.1...37.33.0) (2025-08-15)
 
 ### Dependency updates
