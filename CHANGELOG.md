@@ -1,3 +1,13 @@
+## [37.39.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.38.0...37.39.0) (2025-09-07)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.2.17 ([42b6972](https://github.com/AlchemistSimulator/alchemist-grid/commit/42b697249918a161b5e795593d74354aed1698ef))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.6 ([a23628d](https://github.com/AlchemistSimulator/alchemist-grid/commit/a23628d65006ef4b1d8e266bfe03897864d07644))
+
 ## [37.38.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.37.0...37.38.0) (2025-09-06)
 
 ### Dependency updates
