@@ -1,3 +1,15 @@
+## [37.42.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.42.0...37.42.1) (2025-09-10)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.2.20 ([2b36d1f](https://github.com/AlchemistSimulator/alchemist-grid/commit/2b36d1f8b324c02717dc80ce6ef59375c6daff28))
+* **deps:** update plugin kotlin-qa to v0.94.1 ([ad78a6e](https://github.com/AlchemistSimulator/alchemist-grid/commit/ad78a6eb90c4d93926b0b27fe03be564206ddce7))
+* **deps:** update plugin publishoncentral to v9.1.4 ([2bf16e9](https://github.com/AlchemistSimulator/alchemist-grid/commit/2bf16e91b6e01a28a9016711c526baa030668d5e))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.7 ([c05d3c2](https://github.com/AlchemistSimulator/alchemist-grid/commit/c05d3c2c629cbb19e1fe18f8e49ce84d19fe8589))
+
 ## [37.42.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.41.0...37.42.0) (2025-09-08)
 
 ### Dependency updates
