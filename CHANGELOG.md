@@ -1,3 +1,12 @@
+## [37.44.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.43.0...37.44.0) (2025-09-13)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.3.4 ([bd0a043](https://github.com/AlchemistSimulator/alchemist-grid/commit/bd0a043e9a3472f33acb2690aaae2335fdbbcc00))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.142 ([80497f2](https://github.com/AlchemistSimulator/alchemist-grid/commit/80497f29106590c3d229f2627e3b64039451f7b6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.143 ([0718387](https://github.com/AlchemistSimulator/alchemist-grid/commit/0718387dd3e12272c9d96c2dbc34148eaaf8f76c))
+* **deps:** update plugin kotlin-qa to v0.95.0 ([2a9a586](https://github.com/AlchemistSimulator/alchemist-grid/commit/2a9a586f345bc250d66aa90322f53d4f587d268a))
+
 ## [37.43.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.42.1...37.43.0) (2025-09-11)
 
 ### Dependency updates
