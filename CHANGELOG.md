@@ -1,3 +1,20 @@
+## [37.46.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.45.0...37.46.0) (2025-09-30)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.3.6 ([870945a](https://github.com/AlchemistSimulator/alchemist-grid/commit/870945a7e0acc8b6681f5bc26420ae7e52ebff41))
+* **deps:** update dependency org.mockito:mockito-core to v5.20.0 ([34959e7](https://github.com/AlchemistSimulator/alchemist-grid/commit/34959e793ab63738cd2c6f493ab18081f319f5f1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.146 ([8295feb](https://github.com/AlchemistSimulator/alchemist-grid/commit/8295febd3d821013b1af33818fa762f243de49d5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.147 ([cd75f4f](https://github.com/AlchemistSimulator/alchemist-grid/commit/cd75f4f6c7e7c334eba17871c244431ef39de38f))
+* **deps:** update node.js to 22.20 ([12b39c7](https://github.com/AlchemistSimulator/alchemist-grid/commit/12b39c771303c9d647fecf9885270d68392cd2ff))
+* **deps:** update plugin multijvmtesting to v4.2.0 ([fe15c1d](https://github.com/AlchemistSimulator/alchemist-grid/commit/fe15c1da08c92a51f2c8a014c268c4be1c5ad0ed))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.8 ([75d41a7](https://github.com/AlchemistSimulator/alchemist-grid/commit/75d41a7969bcc2f96f82bfc61d047b18434b0546))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.9 ([dca215b](https://github.com/AlchemistSimulator/alchemist-grid/commit/dca215b3ef77bb73fb8dffebaeec24e822a59d2f))
+* **deps:** update dependency macos github actions runner to v15 ([9b85c7f](https://github.com/AlchemistSimulator/alchemist-grid/commit/9b85c7f30ad24843ebec10ade0e8d36a0075506b))
+
 ## [37.45.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.44.0...37.45.0) (2025-09-19)
 
 ### Dependency updates
