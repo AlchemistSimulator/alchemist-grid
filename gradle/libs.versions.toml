@@ -18,7 +18,7 @@ kotest-assertions-core-jvm = { module = "io.kotest:kotest-assertions-core-jvm", 
 mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockito" }
 resourceloader = "org.danilopianini:thread-inheritable-resource-loader:0.3.8"
 slf4j = "org.slf4j:slf4j-api:2.0.17"
-spotbugs-annotations = "com.github.spotbugs:spotbugs-annotations:4.9.6"
+spotbugs-annotations = "com.github.spotbugs:spotbugs-annotations:4.9.7"
 
 [bundles]
 kotlin-testing = [ "kotest-junit5-jvm", "kotest-assertions-core-jvm", "mockito-core" ]
