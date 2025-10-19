@@ -1,3 +1,10 @@
+## [37.51.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.50.0...37.51.0) (2025-10-19)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.3.13 ([40b8de7](https://github.com/AlchemistSimulator/alchemist-grid/commit/40b8de79cf5618ee6fb2c353aa7e8de91e99c79e))
+* **deps:** update dependency com.github.spotbugs:spotbugs-annotations to v4.9.8 ([55c96f7](https://github.com/AlchemistSimulator/alchemist-grid/commit/55c96f7990c3ee6f40c58319f68c9b8ee6ae44aa))
+
 ## [37.50.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.49.0...37.50.0) (2025-10-15)
 
 ### Dependency updates
