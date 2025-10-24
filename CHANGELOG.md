@@ -1,3 +1,10 @@
+## [37.53.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.52.0...37.53.0) (2025-10-24)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.3.15 ([9ba8d7f](https://github.com/AlchemistSimulator/alchemist-grid/commit/9ba8d7f762356222c28f908bc68ec561c00c592b))
+* **deps:** update plugin multijvmtesting to v4.3.0 ([d6a1cbb](https://github.com/AlchemistSimulator/alchemist-grid/commit/d6a1cbb921f9c4dfb4a25be34ecbf1aba1dccc00))
+
 ## [37.52.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.51.1...37.52.0) (2025-10-24)
 
 ### Dependency updates
