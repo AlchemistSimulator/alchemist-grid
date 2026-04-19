@@ -1,3 +1,23 @@
+## [37.53.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.53.0...37.53.1) (2026-04-19)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.150 ([d5dcdc4](https://github.com/AlchemistSimulator/alchemist-grid/commit/d5dcdc41c9db21672f5966017f5d1f6c114ac585))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.152 ([051ccf8](https://github.com/AlchemistSimulator/alchemist-grid/commit/051ccf8980d3dc3f175486f187e92d9e32060e63))
+* **deps:** update gradle to v9.2.0 ([#265](https://github.com/AlchemistSimulator/alchemist-grid/issues/265)) ([0d5a427](https://github.com/AlchemistSimulator/alchemist-grid/commit/0d5a4275e7b6b2460929a134651543c80af679e0))
+* **deps:** update node.js to v24 ([0929d08](https://github.com/AlchemistSimulator/alchemist-grid/commit/0929d08046263b25100522cb84166a79a90d09c4))
+* **deps:** update plugin gitsemver to v7.0.6 ([8e99e9b](https://github.com/AlchemistSimulator/alchemist-grid/commit/8e99e9b2fa3d8ef8024039ed826979f2edb2d3bb))
+* **deps:** update plugin kotlin-qa to v0.95.3 ([dfbbcf7](https://github.com/AlchemistSimulator/alchemist-grid/commit/dfbbcf71146122476a025b689d1b80405db3840b))
+* **deps:** update plugin multijvmtesting to v4.3.1 ([f5f2933](https://github.com/AlchemistSimulator/alchemist-grid/commit/f5f293341d11ae81d041226c81258e8d2060238d))
+* **deps:** update plugin multijvmtesting to v4.3.2 ([3a0803d](https://github.com/AlchemistSimulator/alchemist-grid/commit/3a0803d98170f2ae7a14d90be768cc8be090b0ff))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.1.4 ([09cba95](https://github.com/AlchemistSimulator/alchemist-grid/commit/09cba9559c29fa23aba31ad97f5758a49a5e83ad))
+* **deps:** update plugin publishoncentral to v9.1.15 ([61e1c64](https://github.com/AlchemistSimulator/alchemist-grid/commit/61e1c6476714e724abbd4b8642c1022af7308fa6))
+* **deps:** update plugin publishoncentral to v9.1.7 ([ec43c79](https://github.com/AlchemistSimulator/alchemist-grid/commit/ec43c793a086162b6f063ef042ea9819a185d22e))
+
+### Documentation
+
+* **deps:** update plugin dokka to v2.1.0 ([#242](https://github.com/AlchemistSimulator/alchemist-grid/issues/242)) ([da24267](https://github.com/AlchemistSimulator/alchemist-grid/commit/da24267bf0a830dc20e00ecf80f259010a3e8421))
+
 ## [37.53.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.52.0...37.53.0) (2025-10-24)
 
 ### Dependency updates
