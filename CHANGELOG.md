@@ -1,3 +1,13 @@
+## [37.54.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.53.1...37.54.0) (2026-04-19)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v42.3.35 ([d8b8bae](https://github.com/AlchemistSimulator/alchemist-grid/commit/d8b8baefe393af66601fae78227372cd3ceeb7a3))
+
+### Build and continuous integration
+
+* **deps:** update danysk/action-checkout action to v0.2.28 ([#281](https://github.com/AlchemistSimulator/alchemist-grid/issues/281)) ([e4309c9](https://github.com/AlchemistSimulator/alchemist-grid/commit/e4309c9d64deded8f731a4c556e5d7599d678a9d))
+
 ## [37.53.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.53.0...37.53.1) (2026-04-19)
 
 ### Dependency updates
