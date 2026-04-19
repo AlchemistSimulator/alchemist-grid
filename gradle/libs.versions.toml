@@ -7,7 +7,7 @@ mockito = "5.23.0"
 
 [libraries]
 alchemist = { module = "it.unibo.alchemist:alchemist", version.ref = "alchemist" }
-apache-commons-io = "commons-io:commons-io:2.20.0"
+apache-commons-io = "commons-io:commons-io:2.21.0"
 guava = "com.google.guava:guava:33.6.0-jre"
 ignite-core = { module = "org.apache.ignite:ignite-core", version.ref = "ignite" }
 ignite-indexing = { module = "org.apache.ignite:ignite-indexing", version.ref = "ignite" }
