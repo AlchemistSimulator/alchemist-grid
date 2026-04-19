@@ -1,5 +1,5 @@
 [versions]
-alchemist = "42.3.35"
+alchemist = "42.4.2"
 ignite = "2.17.0"
 kotest = "6.1.11"
 kotlin = "2.3.20"
