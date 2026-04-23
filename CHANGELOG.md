@@ -1,3 +1,10 @@
+## [37.57.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.57.0...37.57.1) (2026-04-23)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.3.21 ([0326e0f](https://github.com/AlchemistSimulator/alchemist-grid/commit/0326e0f0958124af97d20929728299bd3ef113d3))
+* **deps:** update plugin gitsemver to v7.0.17 ([0054d14](https://github.com/AlchemistSimulator/alchemist-grid/commit/0054d14b667c47c8d3b20c2f9b870f0ad1e66464))
+
 ## [37.57.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.56.0...37.57.0) (2026-04-21)
 
 ### Dependency updates
