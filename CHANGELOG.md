@@ -1,3 +1,13 @@
+## [37.58.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.57.1...37.58.0) (2026-04-24)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v43.0.41 ([1850c69](https://github.com/AlchemistSimulator/alchemist-grid/commit/1850c69c04fd5773c94308d47c90ae26b0f3285c))
+* **deps:** update dependency commons-io:commons-io to v2.22.0 ([#321](https://github.com/AlchemistSimulator/alchemist-grid/issues/321)) ([76e7caf](https://github.com/AlchemistSimulator/alchemist-grid/commit/76e7caf9bd002e31f78cf479f5d91aa01e6fec81))
+* **deps:** update plugin kotlin-qa to v1.5.1 ([2a5d76d](https://github.com/AlchemistSimulator/alchemist-grid/commit/2a5d76dd07b07aeaffa14bf156748abdefcda42d))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.1.15 ([1bc109b](https://github.com/AlchemistSimulator/alchemist-grid/commit/1bc109be7e0863a8710d76491a17e1439f2949e5))
+* **deps:** update plugin publishoncentral to v9.2.1 ([1b80b06](https://github.com/AlchemistSimulator/alchemist-grid/commit/1b80b06deb73dce1e1a799386aa7c1f0d27d68b6))
+
 ## [37.57.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.57.0...37.57.1) (2026-04-23)
 
 ### Dependency updates
