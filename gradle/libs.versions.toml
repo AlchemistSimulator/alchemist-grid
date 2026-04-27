@@ -1,6 +1,6 @@
 [versions]
 alchemist = "43.0.41"
-ignite = "2.17.0"
+ignite = "2.18.0"
 kotest = "6.1.11"
 kotlin = "2.3.21"
 mockito = "5.23.0"
