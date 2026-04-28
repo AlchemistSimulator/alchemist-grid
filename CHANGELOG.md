@@ -1,3 +1,11 @@
+## [37.59.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.58.0...37.59.0) (2026-04-28)
+
+### Dependency updates
+
+* **api-deps:** update dependency it.unibo.alchemist:alchemist to v43.0.42 ([e53abd6](https://github.com/AlchemistSimulator/alchemist-grid/commit/e53abd6b6be7d7b2f53d575eb9e6386844c9e6b6))
+* **deps:** update ignite to v2.18.0 ([b9fc1bb](https://github.com/AlchemistSimulator/alchemist-grid/commit/b9fc1bb2143d2a61ba656eddabf1c06b2ac50ac3))
+* **deps:** update plugin kotlin-qa to v1.6.0 ([68755b0](https://github.com/AlchemistSimulator/alchemist-grid/commit/68755b0f8d94c73fa9fbc24e2108fc52a3ace812))
+
 ## [37.58.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.57.1...37.58.0) (2026-04-24)
 
 ### Dependency updates
