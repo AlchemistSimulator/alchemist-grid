@@ -2,7 +2,7 @@
 alchemist = "43.0.56"
 ignite = "2.18.0"
 kotest = "6.1.11"
-kotlin = "2.3.21"
+kotlin = "2.4.0"
 mockito = "5.23.0"
 
 [libraries]
