@@ -1,3 +1,14 @@
+## [37.72.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.72.0...37.72.1) (2026-06-03)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.4.0 ([cc950e0](https://github.com/AlchemistSimulator/alchemist-grid/commit/cc950e0a39c226b06ee050dad7fb9307de4dac2a))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v6.0.3 ([35786e2](https://github.com/AlchemistSimulator/alchemist-grid/commit/35786e2f57c1bf933da65a31c61987ac2d12616b))
+* **deps:** update danysk/action-checkout action to v0.2.29 ([b4ef2f7](https://github.com/AlchemistSimulator/alchemist-grid/commit/b4ef2f792596b6b56e43ce67d426de5ebedb38a9))
+
 ## [37.72.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.71.0...37.72.0) (2026-06-02)
 
 ### Dependency updates
