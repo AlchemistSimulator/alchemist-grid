@@ -1,3 +1,22 @@
+## [37.73.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.72.1...37.73.0) (2026-06-14)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v43.1.4 ([43f5151](https://github.com/AlchemistSimulator/alchemist-grid/commit/43f515111aa7cff80b942ee8795caa906e0406a4))
+* **deps:** update dependency com.github.spotbugs:spotbugs-annotations to v4.10.1 ([236238d](https://github.com/AlchemistSimulator/alchemist-grid/commit/236238d95cba3b18c7459cd8b39c2f65069cb3cb))
+* **deps:** update dependency com.github.spotbugs:spotbugs-annotations to v4.10.2 ([282b40f](https://github.com/AlchemistSimulator/alchemist-grid/commit/282b40fbb82883dd047ccc1f777020339461a4fd))
+* **deps:** update plugin gitsemver to v7.0.21 ([a3e8ade](https://github.com/AlchemistSimulator/alchemist-grid/commit/a3e8ade24ebe904e6d085ad6497bf5027be1d31f))
+* **deps:** update plugin gitsemver to v7.0.22 ([ecb727a](https://github.com/AlchemistSimulator/alchemist-grid/commit/ecb727afbc7e50d4b713dc773da321d07784e3f6))
+* **deps:** update plugin kotlin-qa to v1.7.1 ([682e7c6](https://github.com/AlchemistSimulator/alchemist-grid/commit/682e7c6ba9c7d658d15f31049c7bbad11d7350a5))
+* **deps:** update plugin multijvmtesting to v4.5.1 ([7119158](https://github.com/AlchemistSimulator/alchemist-grid/commit/711915800fd8a0b458ce95a2802f6e387531a372))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.1.18 ([52dcdbf](https://github.com/AlchemistSimulator/alchemist-grid/commit/52dcdbf1951fb2b877b1284c8640e4fec2ad105b))
+* **deps:** update plugin publishoncentral to v9.2.5 ([10ee58a](https://github.com/AlchemistSimulator/alchemist-grid/commit/10ee58af6b7c1513b8137bc66bb350f35e216cb8))
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.34 ([94c6e1c](https://github.com/AlchemistSimulator/alchemist-grid/commit/94c6e1c14609c7f8d9cbda2bf4644272cbdea71b))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v4.0.35 ([af5070b](https://github.com/AlchemistSimulator/alchemist-grid/commit/af5070b6ab6c005bec2c7d277bbe6e1eb817e439))
+
 ## [37.72.1](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.72.0...37.72.1) (2026-06-03)
 
 ### Dependency updates
