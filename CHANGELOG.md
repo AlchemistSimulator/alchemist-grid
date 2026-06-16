@@ -1,3 +1,10 @@
+## [37.74.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.73.0...37.74.0) (2026-06-16)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v43.1.5 ([d3ffa8c](https://github.com/AlchemistSimulator/alchemist-grid/commit/d3ffa8c58762f417a5edc5762d7dbc1cf9461e4d))
+* **deps:** update kotest to v6.2.0 ([ae79ef6](https://github.com/AlchemistSimulator/alchemist-grid/commit/ae79ef6065c48bedd11fb3c6d66097be50e51938))
+
 ## [37.73.0](https://github.com/AlchemistSimulator/alchemist-grid/compare/37.72.1...37.73.0) (2026-06-14)
 
 ### Dependency updates
