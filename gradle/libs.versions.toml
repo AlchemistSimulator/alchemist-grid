@@ -3,7 +3,7 @@ alchemist = "43.1.5"
 ignite = "2.18.0"
 kotest = "6.2.5"
 kotlin = "2.4.10"
-mockito = "5.23.0"
+mockito = "5.24.0"
 
 [libraries]
 alchemist = { module = "it.unibo.alchemist:alchemist", version.ref = "alchemist" }
