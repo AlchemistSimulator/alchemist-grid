@@ -15,7 +15,7 @@ repositories {
 }
 
 multiJvm {
-    jvmVersionForCompilation = 17
+    jvmVersionForCompilation = 21
 }
 
 dependencies {

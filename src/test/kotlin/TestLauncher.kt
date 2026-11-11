@@ -11,8 +11,8 @@ import io.kotest.core.spec.style.StringSpec
 import io.kotest.matchers.shouldBe
 import it.unibo.alchemist.boundary.LoadAlchemist
 import it.unibo.alchemist.boundary.launchers.IgniteServerLauncher
-import org.kaikikm.threadresloader.ResourceLoader
 import java.net.URL
+import org.kaikikm.threadresloader.ResourceLoader
 
 /*
  * Copyright (C) 2010-2023, Danilo Pianini and contributors

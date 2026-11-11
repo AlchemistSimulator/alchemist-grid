@@ -27,6 +27,7 @@ import java.io.Serial;
 import java.net.URL;
 import java.net.URLClassLoader;
 import java.util.Objects;
+import java.util.Optional;
 import java.util.UUID;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -83,7 +84,7 @@ public final class RemoteSimulationImpl<T, P extends Position<P>> implements Rem
                     return new RemoteResultImpl(
                         wd.getFileContent(filename),
                         ignite.cluster().localNode().id(),
-                        simulation.getError(),
+                        Optional.ofNullable(simulation.getError().getOrNull()),
                         config
                     );
                 }

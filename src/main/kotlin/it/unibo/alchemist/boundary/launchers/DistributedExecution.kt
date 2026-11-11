@@ -14,6 +14,7 @@ import it.unibo.alchemist.boundary.grid.config.LocalGeneralSimulationConfig
 import it.unibo.alchemist.boundary.grid.config.SimulationConfigImpl
 import it.unibo.alchemist.boundary.grid.simulation.SimulationSetImpl
 import it.unibo.alchemist.model.Time
+import java.io.Serializable
 import java.nio.file.Paths
 
 /**
@@ -29,7 +30,15 @@ class DistributedExecution(
                 loader,
                 Time.INFINITY,
             )
-        val simConfigs = loader.variables.cartesianProductOf(variables).map(::SimulationConfigImpl)
+        val simConfigs = loader.variables.cartesianProductOf(variables).map { combination ->
+            SimulationConfigImpl(
+                combination.mapValues { (name, value) ->
+                    requireNotNull(value as? Serializable) {
+                        "Value $value of variable $name is not serializable, and cannot be distributed"
+                    }
+                },
+            )
+        }
         val simulationSet =
             SimulationSetImpl(
                 simulationConfig,
